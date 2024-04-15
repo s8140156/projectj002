@@ -282,7 +282,7 @@ switch ($month) {
     }
 
     .today {
-        color: darkgreen;
+        color: gold;
         font-weight: 700;
         /* font-size: 35px; */
         border-radius: 50%;
